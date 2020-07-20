@@ -1,3 +1,6 @@
+A basic event management application made by using PHP, MySQL.
+Purpose: Introduction to web development 
+
 Team:
 FNU Gauravdeep Singh - 1001827248
 Jeevesh Sehgal - 1001773372
