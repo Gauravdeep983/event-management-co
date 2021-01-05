@@ -73,3 +73,7 @@ SQL Script:
 	The project includes the SQL script file named 'gauravut_event_management.sql'
 	(The database connection uses credentials for 'localhost' along with a commented lines for uta.cloud)
 	NOTE: Change in credentials required for using uta.cloud database
+
+NOTES:
+	Customer login: gauravdeep2@gmail.com, Gaurav@123
+	Admin login: admin@gmail.com, Admin@123
